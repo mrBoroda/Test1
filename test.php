@@ -11,3 +11,5 @@ foreach ($ar as $a) {
 // Test 3
 
 echo "test3";
+
+echo "test4";
